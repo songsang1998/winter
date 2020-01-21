@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e96da70a7f285b744ae8fa952ba2b57a, type: 3}
+  m_Name: New Select
+  m_EditorClassIdentifier: 
+  SheetName: "\uACA8\uC6B8 \uC800\uD0DD"
+  WorksheetName: Select
+  dataArray:
+  - number: 0
+    selectlog: "\uC120\uD0DD\uC9C0 \uC785\uB2C8\uB2E4."
+    movescene: "\uC774\uB3D9\uD560\uC52C\uC785\uB2C8\uB2E4"
+  - number: 1
+    selectlog: "\uB098\uAC04\uB2E4."
+    movescene: 2
+  - number: 2
+    selectlog: "\uB098\uAC00\uC9C0 \uC54A\uB294\uB2E4"
+    movescene: 5
+  - number: 3
+    selectlog: "\uACC4\uB2E8"
+    movescene: 4-1
+  - number: 4
+    selectlog: "\uC544\uB3C4\uB2C8\uC2A4"
+    movescene: 4-2
+  - number: 5
+    selectlog: "\uBC29"
+    movescene: 6
+  - number: 6
+    selectlog: "\uB3CC\uC544\uAC00\uAE30"
+    movescene: 4
+  - number: 7
+    selectlog: "\uB098\uB294 \uB0AF\uC120 \uBC29\uC5D0 \uB2E4\uC2DC \uD63C\uC790 \uB0A8\uC558\uB2E4."
+    movescene: 6
+  - number: 8
+    selectlog: "\uACF0\uC778\uD615"
+    movescene: 6-1
+  - number: 9
+    selectlog: "\uCC3D\uBB38"
+    movescene: 6-2
+  - number: 10
+    selectlog: "\uCE68\uB300"
+    movescene: 6-3
+  - number: 11
+    selectlog: "\uBBF8\uC644\uC131 \uADF8\uB9BC"
+    movescene: 6-4
+  - number: 12
+    selectlog: "\uC5EC\uBD84\uC758 \uC758\uC790"
+    movescene: 6-5
+  - number: 13
+    selectlog: "\uD0C1\uC0C1\uAC70\uC6B8"
+    movescene: 6-6
+  - number: 14
+    selectlog: "\uB2E4 \uB458\uB7EC\uBD24\uB2E4"
+    movescene: 6-7
+  - number: 15
+    selectlog: "\uB3CC\uC544\uAC00\uAE30"
+    movescene: 6
+  - number: 16
+    selectlog: "\uBC291"
+    movescene: 11-1
+  - number: 17
+    selectlog: "\uBC292"
+    movescene: 11-2
+  - number: 18
+    selectlog: "\uBC293"
+    movescene: 11-3
+  - number: 19
+    selectlog: "\uBC294"
+    movescene: 11-4
+  - number: 20
+    selectlog: "\uB3CC\uC544\uAC00\uAE30"
+    movescene: 11
+  - number: 21
+    selectlog: "\uB2E4 \uBD24\uB2E4."
+    movescene: 12
+  - number: 22
+    selectlog: "\uC751\uC811\uC2E4"
+    movescene: 13-1
+  - number: 23
+    selectlog: "\uC2DD\uB2F9"
+    movescene: 13-2
+  - number: 24
+    selectlog: "\uC2DD\uD0C1"
+    movescene: 13-2-1
+  - number: 25
+    selectlog: "\uC870\uB9AC\uC2E4"
+    movescene: 13-2-2
+  - number: 26
+    selectlog: "\uC11C\uC7AC"
+    movescene: 13-3
+  - number: 27
+    selectlog: "\uCC45\uC7A5"
+    movescene: 13-3-1
+  - number: 28
+    selectlog: "\uCC45\uC0C1"
+    movescene: 13-3-2
+  - number: 29
+    selectlog: "\uCCAB \uBC88\uC9F8 \uC11C\uB78D"
+    movescene: 13-3-2-1
+  - number: 30
+    selectlog: "\uB450 \uBC88\uC9F8 \uC11C\uB78D"
+    movescene: 13-3-2-2
+  - number: 31
+    selectlog: "\uC138 \uBC88\uC9F8 \uC11C\uB78D"
+    movescene: 13-3-2-3
+  - number: 32
+    selectlog: "\uC5B4\uD56D"
+    movescene: 13-3-3
+  - number: 33
+    selectlog: "\uB3CC\uC544\uAC00\uAE30"
+    movescene: 13
+  - number: 34
+    selectlog: 
+    movescene: 
+  - number: 35
+    selectlog: 
+    movescene: 
+  - number: 36
+    selectlog: 
+    movescene: 
+  - number: 37
+    selectlog: "\uACC4\uB2E8"
+    movescene: 13-4
+  - number: 38
+    selectlog: "\uB2E4 \uBD24\uB2E4."
+    movescene: 14
+  - number: 39
+    selectlog: "\uAFE9\uAD6C\uC774"
+    movescene: 17-1
+  - number: 0
+    selectlog: "\uB3CC\uC544\uAC00\uAE30"
+    movescene: 13-2
+  - number: 0
+    selectlog: "\uB3CC\uC544\uAC00\uAE30"
+    movescene: 13-3
+  - number: 0
+    selectlog: "\uB3CC\uC544\uAC00\uAE30"
+    movescene: 13-3-2
