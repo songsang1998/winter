@@ -11,7 +11,7 @@ public class Scenemove : MonoBehaviour
     public int scenenumber;
   
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
 
       
@@ -20,10 +20,5 @@ public class Scenemove : MonoBehaviour
     }
 
     // Update is called once per frame
-    private void Update()
-    {
-   
-    }
- 
     
 }

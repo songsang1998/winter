@@ -6,30 +6,51 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/0.Scenes/Main.unity
     guid: 97eca086aa2ba1d44a2d22fd26f0f2c6
   - enabled: 1
-    path: Assets/Scenes/prologue.unity
+    path: Assets/0.Scenes/prologue.unity
     guid: 46599560f26e16f478e66ae7c811900a
   - enabled: 1
-    path: Assets/Scenes/FirstDay.unity
+    path: Assets/0.Scenes/FirstDay.unity
     guid: 173663ef5e355ec41be429d924943277
   - enabled: 1
-    path: Assets/Scenes/1.unity
+    path: Assets/0.Scenes/1.unity
     guid: af7776086efdbfd4f9bb4e145f6a0788
   - enabled: 1
-    path: Assets/Scenes/1C1.unity
+    path: Assets/0.Scenes/1C1.unity
     guid: 4f4f2711040fc894f93adb3c57ebc18a
   - enabled: 1
-    path: Assets/Scenes/2.unity
+    path: Assets/0.Scenes/2.unity
     guid: 5e6bbe4097afe924cbb812f152fe413d
   - enabled: 1
-    path: Assets/Scenes/4.unity
+    path: Assets/0.Scenes/4.unity
     guid: e7875f59487eccd4598949058ec4f8bb
   - enabled: 1
-    path: Assets/Scenes/4-1.unity
+    path: Assets/0.Scenes/4-1.unity
     guid: 3439af26465d42e40af7ed30a1f7ccac
   - enabled: 1
-    path: Assets/Scenes/4-2.unity
+    path: Assets/0.Scenes/4-2.unity
     guid: 4e35e72679b16e8489a39b3559438386
+  - enabled: 1
+    path: Assets/0.Scenes/5.unity
+    guid: 9f9fe631acee13145a359abc896df0cf
+  - enabled: 1
+    path: Assets/0.Scenes/5C1.unity
+    guid: 1d104e286a9fc6b4dbbca873d67f64d2
+  - enabled: 1
+    path: Assets/0.Scenes/5C2.unity
+    guid: cb827d559727db34389f4043ec62d60f
+  - enabled: 1
+    path: Assets/0.Scenes/6.unity
+    guid: ca9cdbdeddb645e46beb6825ffe4fd4b
+  - enabled: 1
+    path: Assets/0.Scenes/6-1.unity
+    guid: cdfbc26fcf26ab947b449089edf3030a
+  - enabled: 1
+    path: Assets/0.Scenes/6-1C1.unity
+    guid: b59c82865c3729d48b891351c7f35304
+  - enabled: 1
+    path: Assets/0.Scenes/6-1C2.unity
+    guid: dc669ceb98d842b419bbcac43c185dbe
   m_configObjects: {}
