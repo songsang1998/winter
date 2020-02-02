@@ -7,6 +7,7 @@ public class Setting : MonoBehaviour
     public Text maintext;
     string otext;
     string stext;
+    public bool skip = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,20 +29,19 @@ public class Setting : MonoBehaviour
             stext += otext.Substring(0, i);
             maintext.text = stext;
            stext = "";
-            if (Input.GetKeyDown(KeyCode.F))
+            if (skip == true)
             {
-                maintext.text = otext;
                 break;
-                
             }
         }
+        maintext.text=otext;
         yield return new WaitForSeconds(0.2f);
         Imageon();
     }
 
     void Imageon()
     {
-        GameObject.Find("maintext").transform.Find("Select and Image").gameObject.SetActive(true);
+        GameObject.Find("maintext").transform.Find("See").gameObject.SetActive(true);
     }
 }
 
