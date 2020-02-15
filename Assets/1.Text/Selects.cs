@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Selects : MonoBehaviour
+public class SelectsCode : MonoBehaviour
 {
     // Start is called before the first frame update
     public Select SelectLog;
 
-    public static Selects instance;
+    public static SelectsCode instance;
     private void Awake()
     {
-        if (Selects.instance == null)
+        if (SelectsCode.instance == null)
         {
-            Selects.instance = this;
+            SelectsCode.instance = this;
         }
         else
         {

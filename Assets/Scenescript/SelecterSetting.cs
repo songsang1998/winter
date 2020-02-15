@@ -12,7 +12,7 @@ public class SelecterSetting : MonoBehaviour
     void Start()
     {
        
-        maintext.text = Selects.instance.Set(textnumber);
+        maintext.text = SelectsCode.instance.Set(textnumber);
 
        
 
@@ -20,7 +20,7 @@ public class SelecterSetting : MonoBehaviour
     // Update is called once per frame
     public void Move()
     {
-        movename = Selects.instance.Move(textnumber);
+        movename = SelectsCode.instance.Move(textnumber);
         SceneManager.LoadScene(movename);
     }
 }
